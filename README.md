@@ -1,6 +1,6 @@
 # AI Keyword Extractor
 
-![AI Keyword Extractor](./assets/images/keyword-extractor.png)
+![AI Keyword Extractor](./screenshot.png)
 
 AI Keyword Extractor is a web application that utilizes OpenAI's natural language processing capabilities to extract keywords from the provided text.
 
