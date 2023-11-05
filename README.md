@@ -4,6 +4,8 @@
 
 AI Keyword Extractor is a web application that utilizes OpenAI's natural language processing capabilities to extract keywords from the provided text.
 
+<p>Deployed website: <strong><a href="https://lustrous-mermaid-2aceee.netlify.app/">https://lustrous-mermaid-2aceee.netlify.app/</a></strong>
+
 ## Table of Contents
 
 - [Introduction](#introduction)
